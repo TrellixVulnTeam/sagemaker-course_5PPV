@@ -1,4 +1,4 @@
-# Exercise 7
+# Exercise 8
 
 In this lab we will train a Prophet model to show forecasting and BYO algorithms
 
